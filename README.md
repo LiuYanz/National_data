@@ -8,5 +8,5 @@ http://data.stats.gov.cn/index.htm
 ### 使用脚本运行
 
 ```shell
-$ python main.py --type year --date 1978-2016 --dest data2016 --tree tree2016
+$ python nat.py --type year --date 1978-2016 --dest data2016 --tree tree2016
 ```
